@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>Ag-Grid Polymer Element Sample</title>
+
+    <!-- Polymer stuff -->
+    <script src="../../node_modules/webcomponentsjs/lite.js"></script>
+    <link rel="import" href="../../node_modules/Polymer/polymer.html">
+    <link rel="import" href="../../node_modules/polymer-ts/polymer-ts.min.html">
+    <!-- Custom Polymer Grid Elements -->
+    <link rel="import" href="../../lib/sample/grid-components.html">
+</head>
+
+<body>
+    <!-- Example of a Command Line interfaced Grid configuration,
+    Use command line in the Grid header to type some text commands
+    feel free to Select rows, show/hide columns via Keyboard commands, easy fast elegant (: -->
+    <my-cli-grid
+            theme="blue"
+            styles="../../node_modules/ag-grid/dist/styles/"
+            enterprise="true"
+            debug="false"
+            rowHeight="22"
+            rowSelection="multiple"
+            enableColResize
+            suppressRowClickSelection>
+    </my-cli-grid>
+</body>
+</html>

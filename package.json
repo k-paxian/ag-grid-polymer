@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      "ag-grid-polymer",
+      ""
+    ],
+    [
+      "ag-grid-polymer@^0.0.6",
+      "c:\\Users\\omazuruk\\Projects\\sass-x-loader"
+    ]
+  ],
+  "_from": "ag-grid-polymer@>=0.0.6 <0.0.7",
+  "_id": "ag-grid-polymer@0.0.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/ag-grid-polymer",
+  "_nodeVersion": "5.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/ag-grid-polymer-0.0.6.tgz_1461918870631_0.08614856260828674"
+  },
+  "_npmUser": {
+    "email": "leybniz@gmail.com",
+    "name": "kpaxian"
+  },
+  "_npmVersion": "3.8.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "ag-grid-polymer",
+    "raw": "ag-grid-polymer@^0.0.6",
+    "rawSpec": "^0.0.6",
+    "scope": null,
+    "spec": ">=0.0.6 <0.0.7",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_shrinkwrap": null,
+  "_spec": "ag-grid-polymer@^0.0.6",
+  "_where": "c:\\Users\\omazuruk\\Projects\\sass-x-loader",
+  "author": {
+    "name": "Alexander Mazuruk"
+  },
+  "dependencies": {
+    "Polymer": "^1.4.0",
+    "ag-grid": "^4.1.5",
+    "ag-grid-enterprise": "^4.1.4",
+    "polymer-ts": "^0.1.26"
+  },
+  "description": "ag-Grid Polymer Element",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-header": "1.7.1",
+    "gulp-typescript": "2.13.0",
+    "merge2": "1.0.2",
+    "typescript": "1.8.10",
+    "webcomponentsjs": "1.0.2",
+    "webmake": "^0.3.40"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "a1a51e1681b81229743c906e8377856c79385f68",
+    "tarball": "https://registry.npmjs.org/ag-grid-polymer/-/ag-grid-polymer-0.0.6.tgz"
+  },
+  "homepage": "http://www.ag-grid.com/",
+  "keywords": [
+    "ag-grid",
+    "grid",
+    "data",
+    "table",
+    "element",
+    "polymer"
+  ],
+  "main": "main.js",
+  "maintainers": [
+    {
+      "email": "leybniz@gmail.com",
+      "name": "kpaxian"
+    }
+  ],
+  "name": "ag-grid-polymer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified yet\" && exit 1"
+  },
+  "version": "0.0.6"
+}
